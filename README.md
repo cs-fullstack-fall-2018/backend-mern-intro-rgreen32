@@ -1,4 +1,4 @@
 # backend-mern-intro
 
-### Exercise
-Move the task list below everything else. If a task is done, show it some how on the front end.
+### Change the frontend
+Move the task list below everything else. If a task has been submitted as done, show it on the front end.
